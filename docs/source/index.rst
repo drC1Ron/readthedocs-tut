@@ -7,7 +7,8 @@ Welcome to drC1Ron's documentation!
 It pulls data from the database <https://world.openfoodfacts.org/>.   
 
 Since Pythagoras, we know that :math:`a^2 + b^2 = c^2`.
-Other know math is   <br/>
+Other know math is   
+
 .. math::
    e^{ix} = \cos(x) + i \sin(x)
 
