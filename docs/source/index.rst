@@ -2,7 +2,7 @@
 Welcome to drC1Ron's documentation!
 ===================================
 
-**drC1Ron** is a Python library for GAI offers a *simple* and *intuitive* API.  
+**drC1Ron** is a Python library for GAI offers a *simple* and *intuitive* API.  \br
 It pulls data from the database <https://world.openfoodfacts.org/>.  
 Since Pythagoras, we know that :math:`a^2 + b^2 = c^2`.
 .. math::
