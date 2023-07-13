@@ -6,7 +6,9 @@ Welcome to drC1Ron's documentation!
 It pulls data from the database <https://world.openfoodfacts.org/>.
 
 .. math:: 
+
 e^{ix} = /cos(x) + i /sin(x) \\
+
 \int_a^b f(x) dx = \sum_{n=0}^\infty a_n
 
 .. figure:: test.png
