@@ -6,29 +6,29 @@ Usage
 Installation
 ------------
 
-To use Lumache, first install it using pip:
+To use drC1Ron, first install it using pip:
 
 .. code-block:: console
 
-   (.venv) $ pip install lumache
+   (.venv) $ pip install drC1Ron
 
-Creating recipes
+Creating agents
 ----------------
 
-To retrieve a list of random ingredients,
-you can use the ``lumache.get_random_ingredients()`` function:
+To retrieve a list of random agents,
+you can use the ``obj.get_random_agents()`` function:
 
-.. autofunction:: lumache.get_random_ingredients
+.. autofunction:: obj.get_random_agents
 
-The ``kind`` parameter should be either ``"meat"``, ``"fish"``,
-or ``"veggies"``. Otherwise, :py:func:`lumache.get_random_ingredients`
+The ``kind`` parameter should be either ``"good"``, ``"bad"``,
+or ``"god"``. Otherwise, :py:func:`obj.get_random_agent`
 will raise an exception.
 
-.. autoexception:: lumache.InvalidKindError
+.. autoexception:: agent.InvalidKindError
 
 For example:
 
->>> import lumache
->>> lumache.get_random_ingredients()
-['shells', 'gorgonzola', 'parsley']
+>>> import drc1ron as obj
+>>> obj.get_random_agent()
+['good', 'bad', 'god']
 
