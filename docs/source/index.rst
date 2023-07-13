@@ -2,11 +2,14 @@
 Welcome to drC1Ron's documentation!
 ===================================
 
-**drC1Ron** is a Python library for GAI offers a *simple* and *intuitive* API.
-It pulls data from the database <https://world.openfoodfacts.org/>.
+**drC1Ron** is a Python library for GAI offers a *simple* and *intuitive* API.  
+It pulls data from the database <https://world.openfoodfacts.org/>.  
+Since Pythagoras, we know that :math:`a^2 + b^2 = c^2`.
+.. math::
 
-.. math:: 
-e^{ix} = /cos(x) + i /sin(x)
+   (a + b)^2 = a^2 + 2ab + b^2
+
+   (a - b)^2 = a^2 - 2ab + b^2
 
 .. figure:: test.png
 
