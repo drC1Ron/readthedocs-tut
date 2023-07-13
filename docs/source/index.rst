@@ -8,7 +8,9 @@ It pulls data from the database <https://world.openfoodfacts.org/>.
 .. math:: 
 e^{ix} = /cos(x) + i /sin(x) \\
 \int_a^b f(x) dx = \sum_{n=0}^\infty a_n
+
 .. figure:: test.png
+
 Check out the :doc:`usage` section for further information, including
 how to :ref:`installation` the project.
 
